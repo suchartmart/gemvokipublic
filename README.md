@@ -6,8 +6,9 @@ GitHub Pages source: `main`, `/` (root).
 
 Privacy policy: https://suchartmart.github.io/gemvokipublic/privacy.html
 Developer contact: suchartmart@gmail.com
-The policy describes current data handling without making a target-age declaration.
-The game's intended age groups and corresponding SDK configuration must still be confirmed before store release.
+The intended audience includes children under 13. Current development builds use child-directed,
+general-audience, non-personalized ad requests for all users. Mixed-audience age screening,
+Families SDK review and device testing remain required release tasks.
 
 ## app-ads.txt
 
