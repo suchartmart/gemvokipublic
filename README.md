@@ -4,8 +4,10 @@ Public website and policy documents only. Game source is kept in the separate pr
 
 GitHub Pages source: `main`, `/` (root).
 
-Privacy policy publication is pending confirmation of the developer's public contact address and intended audience.
-Do not submit the temporary landing page as a Privacy Policy URL in Play Console.
+Privacy policy: https://suchartmart.github.io/gemvokipublic/privacy.html
+Developer contact: suchartmart@gmail.com
+The policy describes current data handling without making a target-age declaration.
+The game's intended age groups and corresponding SDK configuration must still be confirmed before store release.
 
 ## app-ads.txt
 
